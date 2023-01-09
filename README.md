@@ -16,8 +16,7 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
 # Technolodgies 
 
 This project utilizes Solidity 0.5.0:
-
-Remix - This website acts as a workspace where you can write, compile, deploy, and interact with your solidity code.
+- Remix - This website acts as a workspace where you can write, compile, deploy, and interact with your solidity code.
 
 # Usage
 
