@@ -20,6 +20,21 @@ This project utilizes Solidity 0.5.0:
 
 # Usage
 
+All screenshots are contained in the file named Execution Results.  
+
+![Screenshot 2023-01-11 at 12 12 41 pm](https://user-images.githubusercontent.com/108632632/211700568-05262e66-1799-494c-aae8-15baf995768c.png)
+
+![Screenshot 2023-01-11 at 12 15 01 pm](https://user-images.githubusercontent.com/108632632/211700589-b10ac3a6-87a8-4d8e-9881-65235731a94b.png)
+
+![Screenshot 2023-01-11 at 12 15 22 pm](https://user-images.githubusercontent.com/108632632/211700615-bf4cd4c1-370c-412f-ac7a-027513677c20.png)
+
+![Screenshot 2023-01-11 at 12 22 14 pm](https://user-images.githubusercontent.com/108632632/211700675-c15ebee8-a6c5-435d-8e3e-80cef617d0be.png)
+
+![Screenshot 2023-01-11 at 12 26 35 pm](https://user-images.githubusercontent.com/108632632/211700712-f04ea75b-fa1e-48d0-8c47-c25c9b05735a.png)
+
+![Screenshot 2023-01-11 at 12 26 54 pm](https://user-images.githubusercontent.com/108632632/211700735-0b700ada-81b8-47a6-9a9d-25aa9ee1e41e.png)
+
+![Screenshot 2023-01-11 at 12 27 08 pm](https://user-images.githubusercontent.com/108632632/211700753-f04c08fa-5038-408d-8ee3-14bf22b32b48.png)
 
 
 # Contributor
