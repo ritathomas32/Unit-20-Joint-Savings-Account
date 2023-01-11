@@ -22,11 +22,15 @@ This project utilizes Solidity 0.5.0:
 
 All screenshots are contained in the file named Execution Results.  
 
+- Compiling and deployment of the smart contract
+
 ![Screenshot 2023-01-11 at 12 12 41 pm](https://user-images.githubusercontent.com/108632632/211700568-05262e66-1799-494c-aae8-15baf995768c.png)
 
 ![Screenshot 2023-01-11 at 12 15 01 pm](https://user-images.githubusercontent.com/108632632/211700589-b10ac3a6-87a8-4d8e-9881-65235731a94b.png)
 
 ![Screenshot 2023-01-11 at 12 15 22 pm](https://user-images.githubusercontent.com/108632632/211700615-bf4cd4c1-370c-412f-ac7a-027513677c20.png)
+
+- Interacting with deployed smart contract.  There are more screenshots available in the folder - Execution Results
 
 ![Screenshot 2023-01-11 at 12 22 14 pm](https://user-images.githubusercontent.com/108632632/211700675-c15ebee8-a6c5-435d-8e3e-80cef617d0be.png)
 
